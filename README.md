@@ -10,12 +10,13 @@ To run the code, you need to have the following software installed on your machi
 * scikit-learn
 * joblib
 
-### Acknowledgments
-
-* This code is based on the example in the scikit-learn documentation.
-* This code is based on Python Machine Learning Tutorial (Data Science).
 ### Visualisation "How it works" from "music-recommender.dot" file
 
 <center>
   <img src="https://user-images.githubusercontent.com/118907071/233602419-06e1bf00-e9c2-4237-bdc7-f5e50222e61d.png" alt="Visualisation: How it works">
 </center>
+
+### Acknowledgments
+
+* This code is based on the example in the [scikit-learn documentation](https://scikit-learn.org/0.21/documentation.html).
+* This code is based on [Python Machine Learning Tutorial (Data Science)](https://www.youtube.com/watch?v=7eh4d6sabA0).
