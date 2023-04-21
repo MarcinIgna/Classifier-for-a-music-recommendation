@@ -14,3 +14,8 @@ To run the code, you need to have the following software installed on your machi
 
 * This code is based on the example in the scikit-learn documentation.
 * This code is based on Python Machine Learning Tutorial (Data Science).
+### Visualisation "How it works"
+
+<center>
+  <img src="https://user-images.githubusercontent.com/118907071/233602419-06e1bf00-e9c2-4237-bdc7-f5e50222e61d.png" alt="Visualisation: How it works">
+</center>
